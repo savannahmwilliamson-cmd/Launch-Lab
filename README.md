@@ -7,9 +7,9 @@ NtapAT&T Digital has 1 million customers and depends on trust. Our core solution
 ## Team
 | Person | Name | Lane |
 |---|---|---|
-| 1 | ____ | Who can see the data |
-| 2 | ____ | How data is handled and customer rights |
-| 3 | ____ | Where data leaks and how fast we notice |
+| 1 | Morenike Orimalade | Who can see the data |
+| 2 | Da'ron Tucker | How data is handled and customer rights |
+| 3 | Nia Bethea | Where data leaks and how fast we notice |
 | 4 | Savannah Williamson | Summary, heat map, budget, and merge |
 
 ## Deliverables
